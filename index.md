@@ -15,7 +15,7 @@ Before joining the PhD program I worked for two years as a senior consultant in 
 
 I have also experience teaching introductory courses in economics and advanced econometric courses.
 
-In my free time, I love exploring Scotland, playing tennis and enjoying theatre.
+In my free time, I love learning new skills, exploring Scotland, playing tennis, enjoying theatre, and playing the ukulele.
 
 ## Contact
 
