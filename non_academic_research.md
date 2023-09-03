@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Non-academic writing"
+title: "Non-academic research"
 ---
 
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include archive.html title="Non-academic writing" %}
+  {% include archive.html title="Non-academic research" %}
 {% endif %}
